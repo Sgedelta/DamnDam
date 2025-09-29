@@ -1,8 +1,0 @@
-Fallout - Invalidation.bsa
-Fallout - Textures.bsa
-Fallout - Textures2.bsa
-Fallout - Meshes.bsa
-Fallout - Voices1.bsa
-Fallout - Sound.bsa
-Fallout - Misc.bsa
-Update.bsa
