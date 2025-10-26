@@ -10,6 +10,6 @@ MercenaryPack.esm
 TribalPack.esm
 CaravanPack.esm
 ThatDamnDam_v1.0.esm
-TestEngineer.esp
-DamnDam_Level.esp
 DamnDam_ExteriorVaultEntrance.esp
+DamnDam_Level.esp
+TestEngineer.esp
