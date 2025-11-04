@@ -9,6 +9,7 @@ ClassicPack.esm
 MercenaryPack.esm
 TribalPack.esm
 CaravanPack.esm
+ThatDamnDam_v1.1.esm
 ThatDamnDam_v1.0.esm
 DamnDam_ExteriorVaultEntrance.esp
 DamnDam_Level.esp
