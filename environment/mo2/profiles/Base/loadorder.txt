@@ -11,6 +11,6 @@ TribalPack.esm
 CaravanPack.esm
 ThatDamnDam_v1.1.esm
 ThatDamnDam_v1.0.esm
+DamnDam_Level.esp
 DamnDam_ExteriorVaultEntrance.esp
 TestEngineer.esp
-DamnDam_Level.esp
