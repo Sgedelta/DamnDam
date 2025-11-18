@@ -14,3 +14,7 @@ ThatDamnDam_v1.0.esm
 DamnDam_ExteriorVaultEntrance.esp
 TestEngineer.esp
 DamnDam_Level.esp
+Vault24CaveEntrance.esp
+TDD_AudioLogs.esp
+TDD_SapientLakelurk.esp
+TDD_FinalDialogue.esp
