@@ -11,7 +11,6 @@ TribalPack.esm
 CaravanPack.esm
 ThatDamnDam_v1.1.esm
 ThatDamnDam_v1.0.esm
-Vault24CaveEntrance.esp
 TDD_FinalDialogue.esp
 DamnDam_ExteriorVaultEntrance.esp
 TestEngineer.esp
@@ -19,3 +18,4 @@ DamnDam_Level.esp
 TDD_TEST.esp
 TDD_AudioLogs.esp
 TDD_SapientLakelurk.esp
+Vault24CaveEntrance.esp
